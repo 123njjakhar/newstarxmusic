@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/NoxxOP/ShrutixMusic/main/ShrutixMusic/assets/ShrutixMusic.png" alt="ShrutixMusic Bot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 ShrutixMusic Bot 🎵</h1>
+<h1 align="center">🎵 Smarty bot🎵</h1>
 
 <p align="center">
   <b>Ultimate Telegram Music Bot with Superior Audio Quality & Advanced Music Features</b>
@@ -24,7 +24,7 @@
 ## 🌟 Quick Deploy
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutixMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/123njjakhar/newstarxmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
 </p>
 
 <h2 align="center">🚀 Deploy to Render (Free Hosting)</h2>
